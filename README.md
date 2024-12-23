@@ -11,11 +11,10 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
+  <br />
   <h3 align="center">3D JS Portfolio</h3>
+  <br />
 
-   <div align="center">
-     
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
